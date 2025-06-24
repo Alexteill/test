@@ -1,9 +1,0 @@
-{
-  "telemetry": {
-    "devlink": {
-      "allowTelemetry": true,
-      "lastPrompted": 1750778447409,
-      "version": "1.8.9"
-    }
-  }
-}
