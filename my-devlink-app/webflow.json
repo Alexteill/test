@@ -7,8 +7,8 @@
   "telemetry": {
     "devlink": {
       "allowTelemetry": true,
-      "lastPrompted": 1750780267944,
-      "version": "1.8.9"
+      "lastPrompted": 1750835688233,
+      "version": "1.8.10"
     }
   }
 }
